@@ -1,0 +1,6 @@
+{
+  "name": "PetikNada - Stem Gitar Akurat & Sederhana",
+  "description": "Aplikasi stem gitar online sederhana dan akurat dengan deteksi mikrofon real-time, suara senar referensi, dan preset tuning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
